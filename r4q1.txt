@@ -1,0 +1,5 @@
+4.How many stars are present on the Australian National Flag ?
+		(a). Six
+		(b). Seven
+		(c). Three
+                (d). Five 

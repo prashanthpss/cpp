@@ -1,0 +1,5 @@
+1.In the URL http: // www.yahoo.com / index.htm. Which part is the protect name? 
+		(a). http:// 
+		(b). www. 
+		(c). .com
+                (d). .htm

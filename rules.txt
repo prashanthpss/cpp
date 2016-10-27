@@ -1,0 +1,45 @@
+                     _____________________________________     
+                     _________________KBC_________________
+                     _____________________________________
+                    |        Kaun Banega Crorepati        |
+                    |_____________________________________| 
+
+********************************************************************************
+                                  RULES
+********************************************************************************
+
+1.There are 12 Questions in Game
+
+2.The Prices of 12 Questions are given below:
+	Padav1:	Question1  = Rs.1000 
+		Question2  = Rs.2000
+		Question3  = Rs.5000
+		Question4  = Rs.10000
+	Padav2:	Question5  = Rs.20000
+		Question6  = Rs.50000
+		Question7  = Rs.120000
+		Question8  = Rs.500000
+	Padav3:	Question9  = Rs.1000000
+		Question10 = Rs.2000000
+		Question11 = Rs.5000000
+		Question12 = Rs.10000000
+
+3.There are 3 'Padavas' in the Game.
+
+4.If you finishes First Padav then you had your Rs.10000 in your hand.  
+  If you do so then you could not lose your earned money of last Question.
+
+5.If you gives a wrong Question then you will loose your money. 
+  Then you will get the money for your finished Padav.
+
+6.If you want to take a break then press Keys below:
+      '1'= For 1 minute break
+      '2'= For 2 minutes break
+      '5'= For 5 minutes break 
+
+7.You will get next question automatically please do not press any key
+  otherwise you may lose your game.
+
+*********************************PLAY AND ENJOY*********************************
+
+                 Press any key... 

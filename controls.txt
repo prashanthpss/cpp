@@ -1,0 +1,41 @@
+                     _____________________________________     
+                     _________________KBC_________________
+                     _____________________________________
+                    |        Kaun Banega Crorepati        |
+                    |_____________________________________|     
+
+********************************************************************************
+                                  CONTROLS
+********************************************************************************
+
+             Use the keys below while playing Game:-
+
+_______________________________________________________________________________
+
+
+          KEYS                    FUNCTION
+         ------                  ----------
+       a / A        =	Selects First option of Question
+
+       b / B        =	Selects Second option of Question
+
+       c / C        =	Selects Third option of Question   
+
+       d / D        =	Selects Fourth option of Question
+                         
+
+       1            =	Take a break of 1 minute.
+ 
+       2            =	Take a break of 2 minutes.
+
+       5            =   Take a break of 5 minutes.            
+
+
+_______________________________________________________________________________
+
+   NOTE:  Please do no press any other key during playing .   
+
+********************************************************************************
+ 
+                      
+                    Press any key...

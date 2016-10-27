@@ -1,0 +1,5 @@
+5.Which of the following animal is dumb?
+		(a). Giraffe
+		(b). Deer
+		(c). Yak
+		(d). African Elephant

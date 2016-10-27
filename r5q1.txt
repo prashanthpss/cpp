@@ -1,0 +1,5 @@
+5.Which line provides fixed telephone services with number starting with 2?
+		(a). MTNL		
+		(b). BSNL
+		(c). Tata Infocom
+		(d). Reliance Infocom

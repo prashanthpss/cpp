@@ -1,0 +1,5 @@
+10.Which is the full form of SIM?
+		(a). Subscriber Information Module
+		(b). Subscriber Identity Module
+		(c). Subscriber Information Module
+		(d). Subscriber Identity Management

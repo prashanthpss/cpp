@@ -1,0 +1,6 @@
+2.Which of these FM Radio channel is run by All India Radio?
+		(a). FM Rainbow
+		(b). FM Radio Gold
+                (c). Both
+                (d). None of Given above
+	        

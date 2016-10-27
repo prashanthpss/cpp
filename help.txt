@@ -1,0 +1,34 @@
+                     _____________________________________     
+                     _________________KBC_________________
+                     _____________________________________
+                    |        Kaun Banega Crorepati        |
+                    |_____________________________________|     
+
+********************************************************************************
+                                   HELP
+********************************************************************************
+
+Note:   This Program is for entertainment purpose only.           
+________________________________________________________________________________
+
+
+	                  KBC is a Quiz type game in
+
+	               which User is  asked 12 Questions.
+
+	             Each Question has  four options given.
+
+	            Out of Four options only one is correct.
+
+	            Every question is from General knowledge.
+
+	               User gets another question only if
+
+	                  he/she gives a right answer.          
+
+                  
+
+********************************************************************************
+
+
+                     Press any key...                           

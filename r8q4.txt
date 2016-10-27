@@ -1,0 +1,5 @@
+8.Electric fuse should be
+     		(a). Large length, thin wire, low melting point
+   		(b). Large length, thick wire, low melting point
+     		(c). Short length, thick wire, low melting point
+  		(d). Short length, thin wire, low melting point

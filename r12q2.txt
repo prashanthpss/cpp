@@ -1,0 +1,5 @@
+12.Oxygen transportation in human body follows the following sequence
+		(a). Lungs,Tissues,Blood
+		(b). Blood, Lungs, Tissues
+		(c). Tissues, Lungs, Blood
+		(d). Lungs, Blood, Tissues

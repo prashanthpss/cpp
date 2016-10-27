@@ -1,0 +1,5 @@
+10.How many keys does a piano have?
+		(a). 88
+		(b). 77
+	        (c). 66
+		(d). 55

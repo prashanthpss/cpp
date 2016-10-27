@@ -1,0 +1,5 @@
+1.Which of the follwing is not a Web Browser?
+		(a). Chrome
+		(b). Facebook
+		(c). Opera
+		(d). Mozilla 

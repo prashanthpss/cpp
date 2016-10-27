@@ -1,0 +1,5 @@
+2.Which train runs between India and Pakistan? 
+		(a). Thar Expres
+		(b). Samjhauta Express
+                (c). Both
+                (d). None of these

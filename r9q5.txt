@@ -1,0 +1,5 @@
+9.Most of the ships use
+		(a). Oil based fuel
+		(b). Natural gas
+		(c). Coal
+		(d). White Petrol
